@@ -1,2 +1,2 @@
 # cordova-plugin-opennow
-Tesa Open Now plugin
+Tesa Open Now Cordova plugin
